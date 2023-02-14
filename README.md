@@ -1,6 +1,6 @@
 # glasses_or_no_glasses
 
-Project for "Distributed and pervasive systems" course - University of Milan - Year 2020/21
+Joint project for "Algorithms for massive datasets" and "Statistical Methods for Machine Learning" courses - University of Milan - Year 2020/21
 
 Authors: [Marco Ghezzi](https://github.com/marcoghezzi1) - [Matteo Limoncini](https://github.com/matteolimoncini)
 
